@@ -2,6 +2,6 @@
 
 This  is a test file
 
-
+test merge
 
 Testing  the mergin of two branches test1231344534
